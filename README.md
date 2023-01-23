@@ -9,3 +9,6 @@ Foi feita alterações no projeto tipos de variáveis e enciado para o GitHub.
 
 ## Terceiro commit local Salvando alterações do projeto
 Foi criado as aulas de tipos de operadores.
+
+## Quarto commit local Organizando arquivos
+Foi feita uma reorganização dos arquivos do projeto.
