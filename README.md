@@ -12,3 +12,6 @@ Foi criado as aulas de tipos de operadores.
 
 ## Quarto commit local Organizando arquivos
 Foi feita uma reorganização dos arquivos do projeto.
+
+## Quinto commit local Salvando auterações do projeto
+Criado aula metodos e atualizando README.
