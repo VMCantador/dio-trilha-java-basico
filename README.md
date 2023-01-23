@@ -6,3 +6,6 @@ Foi criado o projeto tipos de variaveis no diretorio local e enviado para o GitH
 
 ## Segundo commit local Salvando alterações do projeto
 Foi feita alterações no projeto tipos de variáveis e enciado para o GitHub.
+
+## Terceiro commit local Salvando alterações do projeto
+Foi criado as aulas de tipos de operadores.
