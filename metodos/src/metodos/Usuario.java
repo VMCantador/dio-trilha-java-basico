@@ -12,6 +12,9 @@ public class Usuario {
 		smartTv.aumentarVolume();
 		System.out.println("Volume Atual: " + smartTv.volume);
 		
+		System.out.println("Canal Atual: " + smartTv.canal);
+		smartTv.mudarCanal(13);
+		System.out.println("Canal Atual: " + smartTv.canal);
 		
 		System.out.println("TV ligada? " + smartTv.ligada);
 		System.out.println("Canal Atual: " + smartTv.canal);
@@ -21,10 +24,5 @@ public class Usuario {
 		System.out.println("Novo Status -> TV ligada? " + smartTv.ligada);
 		
 	}
-
-	private static void diminuirVolume() {
-		// TODO Auto-generated method stub
 		
-	}
-
 }
